@@ -2,6 +2,7 @@
 *.class
 *.midea
 *.iml
+*.src
 
 # Log file
 *.log
